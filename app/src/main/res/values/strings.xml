@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Dillon McDowell</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_text">Does Inner Text go here?
+        \nOK, that worked.  How about with a line break?
+        \nWell, now I\'m fucking perplexed.
+        \n\nSo how about if I start a new paragraph?
+        \n\nWell, I don\'t fucking know.
+        \nI definitely had a few quotes and whatnot, but I thought I\'d escaped them.
+    </string>
+    <string name="nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
